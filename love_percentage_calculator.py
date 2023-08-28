@@ -15,3 +15,4 @@ if(int(a) > 100):
      print("100% YOU ARE MADE FOR EACH OTHER")
 else:
     print(str(L+O+V+E) + str(T+R+U+E) + "%")
+print("Thank you")
